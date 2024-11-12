@@ -1,0 +1,140 @@
+.bosh {
+    background-color: lightblue;
+    text-align: center;
+    border: 2px solid red;
+border-radius: 20px;
+}
+.span {
+    color: blue;
+}
+.span2 {
+    background-color: yellow;
+    color: blue;
+}
+.hayvon {
+
+    color: red;
+}
+.h2 {
+    color: green;
+}
+.faktlar {
+    background-color: yellow;
+    color: green;
+    text-align: center;
+    font-size: 30px;
+
+}
+.h4 {
+    background-color: yellow;
+    color: green;
+    text-align: center;
+    font-size: 30px;
+
+}
+.video {
+    text-align: center;
+    width: 100%;
+}
+.email {
+    color: green;
+}
+.l {
+    width: 100%;
+    height: 50px;
+}
+.btn {
+    background-color: lightblue;
+    color: white;
+    font-size: 30px;
+}
+.trio {
+    background-color: yellow;
+    color: green;
+    text-align: center;
+    font-size: 30px;
+}
+.table {
+    border: 2px solid white;
+    border-collapse: collapse;
+    width: 80%;
+}
+th , td {
+    color: white;
+    text-align: center;
+
+}
+.w {
+    background-color: green
+    ;
+}
+.ars {
+    background-color: red;
+}
+.qiziq {
+    background-color: blue;
+}
+.fakt {
+    background-color: black;
+    color: white;
+}
+.id {
+    background-color: aqua;
+    color: black;
+font-size: 30px;
+text-align: center;
+}
+.lorem {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+} 
+.clas {
+    width: 100%;
+    height: 30px;
+}
+.cl {
+    text-align: center;
+    padding: block;
+}
+.but {
+    font-size: 30px;
+    background-color: green;
+    color: white;
+    
+ 
+}
+.tiger {
+    font-size: 30px;
+}
+
+th , td {
+    color: black;
+    border: 2px solid black;
+   
+}
+.tbl {
+    border-collapse: collapse;
+
+    width: 80%;
+   
+}
+.tr {
+background-color: yellow;
+color: black;
+}
+.ty {
+    width: 80%;
+    background-color: red;
+    color: white;
+}
+.re {
+    background-color: blanchedalmond;
+    color: black;
+}
+.te {
+    background-color: azure;
+    color: black;
+}
